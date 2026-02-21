@@ -80,7 +80,7 @@ ul.menu {
 
 /*=============================Banner=============================*/
 .banner {
-  background-image: url("Images/T1.png");
+  background-image: url("images/T1.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -95,7 +95,6 @@ ul.menu {
 }
 
 .banner::before {
-  content: "";
   position: absolute;
   display: block;
   top: 0;
